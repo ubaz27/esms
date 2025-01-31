@@ -18,6 +18,9 @@ class Controller extends BaseController
         $visit = Visit::find(1);
         $visit->view = $visit->view + 1;
         $visit->save();
-        return view('welcome');
+        $visit = Visit::find(1);
+        // dd();
+        $no = $visit->view;
+        return view('welcome', compact('no'));
     }
 }
