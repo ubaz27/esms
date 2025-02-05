@@ -900,7 +900,7 @@
 
                             <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Introduction To Excel
                             </h2>
-                            <iframe width="450" height="315"
+                            <iframe style="width:100%;" height="315"
                                 src="https://www.youtube.com/embed/L4u3T8SL7fc?si=EBsAk-xSi2gGrzXW"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -940,7 +940,7 @@
                             </div>
 
                             <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Data Entry </h2>
-                            <iframe width="450" height="315"
+                            <iframe style="width:100%;" height="315"
                                 src="https://www.youtube.com/embed/oViZ_0htZsA?si=SvDVoG7rgVTmHQtX"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -976,7 +976,7 @@
                             </div>
 
                             <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Data Entry </h2>
-                            <iframe width="560" height="315"
+                            <iframe style="width:100%;" height="315"
                                 src="https://www.youtube.com/embed/NQgrDwY8yP0?si=nHBXNmMwvQwOe8gB"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -1012,7 +1012,7 @@
                             </div>
 
                             <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Data Entry </h2>
-                            <iframe width="560" height="315"
+                            <iframe style="width:100%;" height="315"
                                 src="https://www.youtube.com/embed/DToyfTdPrlc?si=cjejEl581P8UWALb"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
